@@ -24,6 +24,8 @@ We use the network to automatically design an optimized screw-propelled wheel. B
 The experimental process is illustrated in the video folder:
 [Experimental video](https://github.com/automatingdesign21/DGM/blob/master/video/Experiment.mp4).
 
+https://user-images.githubusercontent.com/97268100/149090918-c62e6cd1-e28b-4d9c-9241-f9ccdadfd6bc.mp4
+
 In order to validate the generalization ability among various product design problems, the proposed DGM was tested on the open-source Shape-net dataset. The test results are shown in the Table. The accuracy of segementation is shown in [log.txt](https://github.com/automatingdesign21/DGM/blob/master/log.txt).
 
 ![image](https://github.com/automatingdesign21/DGM/blob/master/img/accuracy.png)
