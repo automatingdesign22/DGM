@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/lab1501/pointnet-master/part_seg/gan/OUT/latent_gan/table/models.ckpt-1000"
+all_model_checkpoint_paths: "/home/lab1501/pointnet-master/part_seg/gan/OUT/latent_gan/table/models.ckpt-1000"
