@@ -35,7 +35,7 @@ The structure of VAE integrates a segmentation module on the basis of Pointnet t
 ![image](https://github.com/automatingdesign21/DGM/blob/master/img/structure.png)
 
 ## Data Set
-Due to the attachment size limit, we only uploaded a part of the self-built data set. We generated around 9000 point clouds of the screw-propelled wheels as training data by randomly generating different generatrix, and each data was segmented according to screw cylinder and screw blade. You can email me: hl_18sjtu@sjtu.edu.cn for the full data set after the paper is published.
+Due to the attachment size limit, we only uploaded a part of the self-built data set. We generated around 9000 point clouds of the screw-propelled wheels as training data by randomly generating different generatrix, and each data was segmented according to screw cylinder and screw blade. You can email me: hl_18sjtu@sjtu.edu.cn for the full data set.
 For the open-source Shape-net dataset, you can git clone
 ```
 cd ./download_data.sh
