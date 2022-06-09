@@ -4,6 +4,8 @@ Created by Lei Huang, Yuehong Yin, S.K.Ong
 ## Introduction
 This work is based on our CIRP 2022 paper: A Novel Deep Generative Model based on Imaginal Thinking for Automating Design. 
 We proposed a deep generative model (DGM) model based on imaginal thinking to solve an engineering design problem.
+The current build is a demo for wheel optimization. The nightly build would be published asap.
+
 
 ## Dependencies
 ### Requirements:
