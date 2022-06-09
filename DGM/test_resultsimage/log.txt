@@ -1,2 +1,0 @@
-Loading model /home/lab1501/cirp2021/ICD/train_results_mult/trained_models_chair/epoch_50.ckpt
-Model restored.

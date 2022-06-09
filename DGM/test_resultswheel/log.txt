@@ -1,4 +1,0 @@
-Loading model train_results_mult/trained_models_ex1/epoch_50.ckpt
-Model restored.
-Accuracy: 0.991699
-IoU: 1.000000
